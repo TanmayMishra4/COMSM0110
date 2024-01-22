@@ -2,8 +2,8 @@
 
 Group 14
 
-Chun Ka Elvis Yung - kt20672 - Github Username: elvisyung
+Chun Ka Elvis Yung, kt20672@bristol.ac.uk, elvisyung
 
-Tanmay Mishra - fu23194 - Github Username: TanmayMishra4
+Tanmay Mishra, fu23194@bristol.ac.uk, TanmayMishra4
 
-Boyang Lin - jn23914 -Github Username: BIG-Potatooo
+Boyang Lin, jn23914@bristol.ac.uk, BIG-Potatooo
